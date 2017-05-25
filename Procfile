@@ -1,1 +1,1 @@
-web: python app.py serve -p $PORT
+web: python chat.py serve -p $PORT
